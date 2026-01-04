@@ -1,5 +1,6 @@
 # PZK Ultimate DDoS Toolkit v3.1
-
+# Написано специально для канала hacking 2307!
+# Автор скрипта @fedolinov
 <div align="center">
 
 ![GitHub](https://img.shields.io/badge/Python-3.8+-blue.svg)
