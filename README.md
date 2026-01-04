@@ -1,6 +1,5 @@
 # PZK Ultimate DDoS Toolkit v3.1
-# Написано специально для канала hacking 2307!
-# Автор скрипта https://t.me/fedolinov
+
 <div align="center">
 
 ![GitHub](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -8,7 +7,10 @@
 ![Platform](https://img.shields.io/badge/Platform-Termux%2FLinux%2FWindows-green.svg)
 ![Version](https://img.shields.io/badge/Version-3.1-orange.svg)
 
+**Написано специально для канала [hacking 2307](https://t.me/hacking2307)!**  
 **Мультипротокольный фреймворк для стресс-тестирования**
+
+[![Telegram Author](https://img.shields.io/badge/📞%20Автор%20скрипта-@fedolinov-blue?style=for-the-badge&logo=telegram)](https://t.me/fedolinov)
 
 </div>
 
