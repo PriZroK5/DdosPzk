@@ -93,3 +93,36 @@ pip install -r requirements.txt
 
 # Запуск программы
 python3 pzk_ddos.py
+
+## 🖥️ Установка на Windows 10/11
+
+### Способ 1: Полная установка (рекомендуется)
+
+```powershell
+# 1. Установить Python через Microsoft Store (проще)
+# Откройте Microsoft Store -> найдите "Python 3.11" -> установите
+
+# ИЛИ через Winget (администратор):
+winget install Python.Python.3.11
+
+# 2. Установить Git через Winget:
+winget install Git.Git
+
+# 3. Открыть PowerShell и выполнить:
+git clone https://github.com/[ВашЛогин]/Ultimate-DDoS-Toolkit.git
+cd Ultimate-DDoS-Toolkit
+
+# 4. Создать виртуальное окружение:
+python -m venv venv
+
+# 5. Активировать окружение:
+# Для PowerShell:
+venv\Scripts\Activate.ps1
+# Для CMD:
+venv\Scripts\activate.bat
+
+# 6. Установить зависимости:
+pip install colorama requests psutil aiohttp dnspython
+
+# 7. Запустить:
+python pzk_ddos.py
